@@ -1,0 +1,81 @@
+
+{
+  "event_overview": {
+    "event_type": "Pool Party",
+    "theme": "4th of July - Stars & Stripes",
+    "guest_count": 25,
+    "budget": 500,
+    "location": "My House",
+    "duration": "3 hours",
+    "special_considerations": "None"
+  },
+  "timeline_and_milestones": {
+    "planning_phase": [
+      "Decide on pool and backyard layout with zones for food, seating, and games.",
+      "Send digital invitations and confirm attendance.",
+      "Plan the menu and order decorations and party supplies."
+    ],
+    "final_week": [
+      "Confirm guest count and dietary restrictions.",
+      "Shop for groceries, beverages, and decorations.",
+      "Create a patriotic playlist and prepare signage for games."
+    ],
+    "day_of_event": [
+      "Set up pool area, food station, and seating.",
+      "Start the grill 1 hour before guests arrive.",
+      "Run games and activities, ending with sparklers or fireworks."
+    ]
+  },
+  "activities_and_entertainment": {
+    "pool_games_or_activities": [
+      "Stars & Stripes Relay Race",
+      "Water balloon toss",
+      "Pool volleyball match"
+    ],
+    "lawn_or_indoor_games": [
+      "Cornhole tournament",
+      "Giant Jenga"
+    ],
+    "photo_opportunities": [
+      "DIY patriotic backdrop with props",
+      "Polaroid photo wall"
+    ],
+    "special_segments": [
+      "Sparkler countdown finale"
+    ]
+  },
+  "food_and_drinks": {
+    "menu": {
+      "main_dishes": ["Hot dogs", "Burgers", "Veggie burgers"],
+      "sides": ["Pasta salad", "Coleslaw", "Grilled corn"],
+      "snacks": ["Fruit skewers", "Chips and dip"],
+      "desserts": ["Patriotic cupcakes", "S'mores bar"],
+      "beverages": ["Lemonade", "Iced tea", "Sodas", "Fruit-infused water"]
+    },
+    "presentation_and_service_notes": "Use themed disposable plates and cups. Offer a 'Build Your Own Burger' station. Freeze fruit in ice cubes for a festive drink display."
+  },
+  "venue_and_decorations": {
+    "layout_plan": "Divide backyard into four zones: pool area, dining station, games area, and photo booth corner.",
+    "decor_elements": [
+      "Red, white, and blue bunting",
+      "Balloon garlands",
+      "Mason jar centerpieces with mini flags"
+    ],
+    "lighting_and_ambiance": "Use string lights, floating LED pool lights, and soft lanterns for evening ambiance.",
+    "theme_details": "Incorporate patriotic symbols like stars and stripes in cushions, signage, and props."
+  },
+  "optional_add_ons": {
+    "interactive_experiences": ["DIY drink station", "Custom cocktail/mocktail bar"],
+    "photo_booth_or_tech": ["Instant photo printer", "Hashtag social wall"],
+    "party_favors": ["Flag sunglasses", "Glow sticks"],
+    "backup_plan": "Set up tents or move seating to the garage in case of rain."
+  },
+  "budget_breakdown": [
+    { "category": "Food & Drinks", "amount": 180 },
+    { "category": "Decorations & Lighting", "amount": 60 },
+    { "category": "Games & Entertainment", "amount": 40 },
+    { "category": "Party Supplies", "amount": 50 },
+    { "category": "Optional Add-ons", "amount": 40 },
+    { "category": "Miscellaneous", "amount": 30 }
+  ]
+}
